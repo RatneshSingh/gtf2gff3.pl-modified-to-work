@@ -13,9 +13,9 @@ my $usage = "
 
 Synopsis:
 
-gtf2gff3 --cfg gtf2gff3_MY_CONFIG.cfg gtf_file > gff3_file
+gtf2gff3_mod.pl --cfg gtf2gff3_MY_CONFIG.cfg gtf_file > gff3_file
 
-gtf2gff3 --help # for a more detailed help message.
+gtf2gff3_mod.pl --help # for a more detailed help message.
 
 Description:
 
