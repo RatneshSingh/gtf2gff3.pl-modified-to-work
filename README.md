@@ -6,4 +6,4 @@
 
 --Changed the delimiter from tab to space(\s+)
 
---Collected attributes in array and jined with space again to create attribute text.
+--Collected attributes in array and joined with space again to create attribute text.
